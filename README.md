@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gautamgrove
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development and in Cybersecurity
 
 Gautamgrove/Gautamgrove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
