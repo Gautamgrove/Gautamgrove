@@ -2,12 +2,14 @@
     <img align="left" height="260vh" src="/images.jpeg">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
-- 👋 Hi, I’m @Gautamgrove
-- 👀 I’m interested in Web Development and in Cybersecurity
+- 👋 Hi, I’m @Gautamgrove<br>
+- 👀 I’m interested in Web Development and in Cybersecurity<br>
+
 
 Gautamgrove/Gautamgrove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me
+
 Hello! I'm a passionate student currently delving deep into the realms of cybersecurity and web development. With a keen interest in understanding the intricacies of digital security, I am also actively honing my skills in building modern web applications using the MERN stack (MongoDB, Express.js, React, and Node.js). My journey in tech is driven by curiosity and a desire to create secure and efficient applications.
 
 Interests and Focus Areas
